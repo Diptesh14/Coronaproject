@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: right;
+  justify-content:center;
+  font-size: calc(10px + 2vmin);
+  background-color: rgb(4, 1, 50);
+  background-image: url("https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80");
+}
+
